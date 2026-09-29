@@ -1,0 +1,29 @@
+Лицензионное соглашение Dev1C (Freeware)
+Copyright (c) 2026 AzeevAN. Все права защищены.
+
+1. Программа Dev1C («Программа») предоставляется бесплатно для любого использования,
+   включая коммерческое.
+2. Разрешается распространять только неизменённые установщики Программы, полученные
+   из официального раздела Releases репозитория https://github.com/AzeevAN/Dev1C-releases.
+3. Запрещается изменять, декомпилировать, дизассемблировать Программу или создавать
+   производные продукты на её основе, кроме случаев, прямо разрешённых применимым правом.
+4. Сторонние компоненты, входящие в состав Программы, распространяются на условиях
+   их собственных лицензий (см. THIRD_PARTY_NOTICES.md). Настоящее соглашение
+   не ограничивает права, предоставленные этими лицензиями.
+5. ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ. АВТОР НЕ НЕСЁТ
+   ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ УЩЕРБ, ВОЗНИКШИЙ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ПРОГРАММЫ.
+
+--------------------------------------------------------------------------------
+
+Dev1C License Agreement (Freeware)
+Copyright (c) 2026 AzeevAN. All rights reserved.
+
+1. Dev1C (the "Software") is provided free of charge for any use, including commercial use.
+2. You may redistribute only unmodified installers of the Software obtained from the official
+   Releases section of https://github.com/AzeevAN/Dev1C-releases.
+3. You may not modify, decompile, disassemble the Software or create derivative works based
+   on it, except where expressly permitted by applicable law.
+4. Third-party components included in the Software are distributed under their own licenses
+   (see THIRD_PARTY_NOTICES.md). This agreement does not limit rights granted by those licenses.
+5. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
