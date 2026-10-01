@@ -1,12 +1,12 @@
 # Сторонние компоненты
 
 Dev1C включает следующие компоненты, распространяемые на условиях их лицензий.
-Полный перечень библиотек Rust с текстами лицензий прилагается к каждому релизу.
+Полный перечень библиотек Rust с текстами лицензий прилагается к каждому релизу в виде файла `THIRD_PARTY_LICENSES_RUST.html`.
 
 | Компонент | Назначение | Лицензия |
 |---|---|---|
-| [bslfmt](https://pypi.org/project/bslfmt/) | Форматирование BSL-кода | Apache License 2.0 |
-| [Python](https://www.python.org/) (python-build-standalone) | Встроенная среда выполнения модулей | Python Software Foundation License |
+| [bslfmt](https://pypi.org/project/bslfmt/) 0.24.0 | Форматирование BSL-кода | Apache License 2.0 |
+| [Python](https://www.python.org/) CPython 3.12.14 (python-build-standalone) | Встроенная среда выполнения модулей | Python Software Foundation License |
 | [Tauri](https://tauri.app/) | Оболочка приложения | MIT / Apache License 2.0 |
 
 ## bslfmt — NOTICE
