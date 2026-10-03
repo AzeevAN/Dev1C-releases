@@ -5,7 +5,7 @@ Dev1C включает следующие компоненты, распрост
 
 | Компонент | Назначение | Лицензия |
 |---|---|---|
-| [bslfmt](https://pypi.org/project/bslfmt/) 0.24.0 | Форматирование BSL-кода | Apache License 2.0 |
+| [bslfmt](https://pypi.org/project/bslfmt/) 0.27.0 | Форматирование BSL-кода | Apache License 2.0 |
 | [Python](https://www.python.org/) CPython 3.12.14 (python-build-standalone) | Встроенная среда выполнения модулей | Python Software Foundation License |
 | [Tauri](https://tauri.app/) | Оболочка приложения | MIT / Apache License 2.0 |
 
